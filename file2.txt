@@ -1,1 +1,2 @@
 File 2
+my new file 2
