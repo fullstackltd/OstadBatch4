@@ -1,3 +1,4 @@
 File 1
 global
+change
 New line
